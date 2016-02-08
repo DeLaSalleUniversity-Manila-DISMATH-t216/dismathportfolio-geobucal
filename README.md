@@ -5,6 +5,7 @@
 -- I was able to know the course Discrete Mathematics (DISMATH).
 
 --I also learned about truth tables. The truth table for conjuction is shown below.
+
 | P | Q | P∧Q |
 | :---: | :---: | :---: |
 | T | T | **T** |
