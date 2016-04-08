@@ -81,6 +81,7 @@
 #WEEK 5
 Recursive/Inductive Definition
 - We learned all about recursive algorithms
+
 - There are two steps in solving through Recursive/Inductive Definition
   1. Basis Step
   and then
@@ -91,30 +92,38 @@ Hoare Triple
 
 Power Series
 -- We learned all about power series.
+
 -- We were also taught how to represent different functions as power series.
 
 Set Theory
 -- We were introduced to Sets and Set Builder Notation.
+
 -- Empty Set/Null Set = { } or ∅
      - A set without any elements
      
 Cardinality
   -- |S|
+
   -- Number of elements a set contains
 
 Subsets  
   -- A ⊆ B
+ 
   -- A is a subset of B if all elements of A are also elements of B
 
 Power Set
   -- P(s) = {T|T⊆S}
+
   -- The power set of s is the set of all subsets that can be derived from set S.
 
 
 ##Week 6
 -- We were introduced to Functions.
+
 -- A function is an assignment of exactly one element of B to each element of A.
+
 -- Functions have 3 types namely One-to-one, Onto, and Bijection
+
 -- We were also introduced to the difference between DOMAIN, CODOMAIN, and RANGE.
 
 
@@ -124,20 +133,27 @@ Power Set
 
 ##Week 8
 -- We were introduced according to sir the most important topic in DISMATH(Algorithms)
+
 -- We were also given a glimpse of a simple algorithm. It is all about finding the maximum element in a given input using a finite set of integers
+
 -- The pseudocode of an Algorithm was also introduced. It is a way of presenting an algorithm using the syntax of a programming language, but is intended for human reading.
 
   
 ##Week 9
---- We are lectured to the most simple algorithms. These algorithms were the Binary Search, Bubble Sort, Insertion Sort, Linear Search and the Greedy Change Algorithm.
+-- We are lectured to the most simple algorithms. These algorithms were the Binary Search, Bubble Sort, Insertion Sort, Linear Search and the Greedy Change Algorithm.
+ 
  --Binary Search - compares the middle terms/value of a list then repeated until the desired output is found
+
  --Bubble Sort - compares the 1st and the 2nd element and changing them if they are in the incorrect order
+
  --Insertion Sort - compares the 2nd element with the 1st and inserts it before the 1st element if it is >, otherwise inserted after the 1st element
  
 
 ##Week 10
-  - The topic for this week is about finding the number of comparisons a function/algorithm/program makes and the time it takes before getting the output.
+-- The topic for this week is about finding the number of comparisons a function/algorithm/program makes and the time it takes before getting the output.
+
 -- The Big-O notation represents the upperbound function of a program, while the big-omega represents the lower bound, and big-theta represents the upper and lower bounds. 
+
 -- This topic is important because it gives programmers an idea their program will do its job.
 
 
@@ -147,13 +163,19 @@ Power Set
  
 ##Week12
 -- Handshake theorem is used to know how many edges are in a graph 2e=deg*vertex
-- The concept of graphs were taught to us this week
-- Euler Path and Euler Circuit is discussed.
-- Hamilton Path, Hamilton Circuit was also discussed
-- Matrices of a graph and Isomorphism of a graph was also taught.
+
+-- The concept of graphs were taught to us this week
+
+-- Euler Path and Euler Circuit is discussed.
+
+-- Hamilton Path, Hamilton Circuit was also discussed
+
+-- Matrices of a graph and Isomorphism of a graph was also taught.
 
 
 ##Week13
 -- Trees, children and leaves were also taught
+
 -- States, transitions and loops were introduced.
+
 -- We were taught more about graphs like the color coding, homeomorphism 
